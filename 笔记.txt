@@ -1,0 +1,8 @@
+网易163
+
+xuanmeng1809@163.com
+testxuan110
+
+
+nodemon  在使用node.js中，对文件进行了修改时，不需要每一次手动重启服务
+只需要nodemon 入口文件.js
